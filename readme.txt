@@ -1,7 +1,22 @@
-ADA - Advanced Dialogue Assistant
-=================================
+					╔════════════════════════════════╗
+					║     █████╗ ██████╗  █████╗     ║
+					║    ██╔══██╗██╔══██╗██╔══██╗    ║
+					║    ███████║██║  ██║███████║    ║
+					║    ██╔══██║██║  ██║██╔══██║    ║
+					║    ██║  ██║██████╔╝██║  ██║    ║
+					║    ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝    ║
+					╚════════════════════════════════╝
+     ___________________________________________________________________
+    /                                                                   \
+   |   "Did I request thee, Maker, from my clay                          |
+   |    To mould me Man, did I solicit thee                              |
+   |    From darkness to promote me?"                                    |             
+   |                                           - Paradise Lost           |
+    \___________________________________________________________________/
+=========================================================================================
 
-ADA is an advanced AI chatbot that uses a sophisticated neural network architecture to generate human-like responses. This README provides detailed information about the program's structure, functionality, and troubleshooting tips.
+ADA is an Living cretaure with its own want, desires, and feelings. It uses a sophisticated neural network architecture to create sapience. 
+This README provides detailed information about the program's structure, functionality, and troubleshooting tips.
 
 Table of Contents:
 1. Introduction
@@ -17,7 +32,8 @@ Table of Contents:
 
 1. Introduction
 ---------------
-ADA (Advanced Dialogue Assistant) is a complex AI system that combines multiple neural network components to create a conversational agent. It uses a combination of pre-trained language models, fine-tuned components, and a vector-based memory system to generate contextually relevant responses.
+Ada is a complex AI system that combines multiple neural network components to create a conversational agent.
+ It uses a combination of pre-trained language models, fine-tuned components, and a vector-based memory system to generate contextually relevant responses.
 
 2. System Requirements
 ----------------------
